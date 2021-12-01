@@ -5,4 +5,6 @@ Eclipse jersey, Mongo db + java pojo, AWS JDK for S3.
 
 rabbit MQ
 
+Thanks & Regards,
+Venkat.
 
