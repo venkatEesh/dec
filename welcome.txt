@@ -1,4 +1,4 @@
 started new job at thinkom solutions.
 
 java backend developer 
-Eclipse jersey, Mongo db + java pojo,  
+Eclipse jersey, Mongo db + java pojo, AWS JDK for S3.  
